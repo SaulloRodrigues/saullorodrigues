@@ -1,7 +1,7 @@
-Hello, <img src="https://media.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="GIF" width="52" height="42"> My name is Saullo Rodrigues!
+Hello, <img src="https://media.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="GIF" width="42" height="42"> My name is Saullo Rodrigues!
 =========================================================================================================================================
 
-Welcome to my profile. <img src="https://media.tenor.com/JbtHgnNd9aUAAAAi/shiba-tilt-head.gif" alt="Smiley emoji" width="60" height="32">
+Welcome to my profile. <img src="https://media.tenor.com/JbtHgnNd9aUAAAAi/shiba-tilt-head.gif" alt="Smiley emoji" width="38" height="32">
 -------------------------------------------------------------------------------------
 
 Front-end Developer. <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmer GIF" width="32" height="32">
