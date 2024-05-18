@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saullo Rodrigues.
+Hello, <img src="https://media.tenor.com/9vcqrSZshSIAAAAi/happy-happy-monday.gif" alt="GIF" width="32" height="32"> My name is Saullo Rodrigues!
 =========================================================================================================================================
 
-Front-end Developer.
---------------------
+Welcome to my profile. <img src="https://media.tenor.com/73r7Fe0GtMcAAAAi/emoji-smiley.gif" alt="Smiley emoji" width="32" height="32">
+-------------------------------------------------------------------------------------
+
+Front-end Developer. <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmer GIF" width="32" height="32">
+----------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Cascavel, Ceará
 * ✉️  You can contact me at [thesaullodev@gmail.com](mailto:thesaullodev@gmail.com)
