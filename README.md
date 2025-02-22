@@ -1,7 +1,7 @@
 <h1 align="left">Hello!👋 My name is Saullo Rodrigues.</h1>
 <h2>Full-Stack Developer</h2>
 
-* 🌍  I'm based in Cascavel, Ceará
+* 🌍  I'm based in Fortaleza, Ceará
 * ✉️  You can contact me at [thesaullodev@gmail.com](mailto:thesaullodev@gmail.com)
 * 🖥  See my portfolio at [saullo.dev](https://saullo.dev)
 * 🧠  I'm studying Java.
