@@ -1,4 +1,4 @@
-<h1 align="left">Hello!👋 My name is Saullo Rodrigues!</h1>
+<h1 align="left">Hello!👋 My name is Saullo Rodrigues.</h1>
 <h2>Full-Stack Developer</h2>
 
 * 🌍  I'm based in Cascavel, Ceará
