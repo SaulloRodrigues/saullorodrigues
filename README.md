@@ -7,8 +7,8 @@
 * 🧠  I'm studying Java.
 * ⚡  I always listen before speaking.
 
-<a href="https://www.github.com/devsaullo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devsaullo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/saullorodrigues" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/saullorodrigues?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ________________________________________________________________________________________
 
 <h3 align="left">Skills</h3>
