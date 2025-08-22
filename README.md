@@ -4,7 +4,7 @@
 * 🌍  I'm based in Fortaleza, Ceará
 * ✉️  You can contact me at [thesaullodev@gmail.com](mailto:thesaullodev@gmail.com)
 * 🖥  See my portfolio at [saullo.dev](https://saullo.dev)
-* 🧠  I'm studying Java & Golang.
+* 🧠  I'm studying Kotlin & Golang & N8N.
 * ⚡  I always listen before speaking.
 
 <a href="https://www.github.com/saullorodrigues" target="_blank" rel="noreferrer"><img
